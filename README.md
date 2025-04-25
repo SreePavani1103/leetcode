@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
