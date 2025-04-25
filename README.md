@@ -6,6 +6,7 @@
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 <!---LeetCode Topics End-->
