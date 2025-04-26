@@ -43,6 +43,7 @@
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
@@ -80,6 +81,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 ## Counting Sort
 |  |
@@ -88,11 +90,13 @@
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
 | [1448-maximum-69-number](https://github.com/SreePavani1103/leetcode/tree/master/1448-maximum-69-number) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Linked List
 |  |
 | ------- |
