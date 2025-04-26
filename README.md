@@ -17,6 +17,7 @@
 | [2383-add-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SreePavani1103/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/SreePavani1103/leetcode/tree/master/2556-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
