@@ -42,15 +42,10 @@ int minMovesToSeat(int* seats, int seatsSize, int* students, int studentsSize) {
   int m=studentsSize;
   merge(seats,0,n-1);
   merge(students,0,m-1);
-  int b[n];
-  for(int i=0;i<n;i++)
-  {
-    b[i]=abs(seats[i]-students[i]);
-  }
   int sum=0;
   for(int i=0;i<n;i++)
   {
-      sum+=b[i];
+    sum+=abs(seats[i]-students[i]);
   }
-    return sum;
+  return sum;
 }
