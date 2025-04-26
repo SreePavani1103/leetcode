@@ -8,6 +8,7 @@
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SreePavani1103/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/SreePavani1103/leetcode/tree/master/1448-maximum-69-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
+| [1448-maximum-69-number](https://github.com/SreePavani1103/leetcode/tree/master/1448-maximum-69-number) |
 ## Linked List
 |  |
 | ------- |
