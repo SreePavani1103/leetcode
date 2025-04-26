@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
+| [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Matrix
 |  |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
