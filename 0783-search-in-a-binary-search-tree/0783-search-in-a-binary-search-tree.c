@@ -7,12 +7,14 @@
  * };
  */
 struct TreeNode* searchBST(struct TreeNode* root, int val) {
-    if(root==NULL||root->val==val)
-    return root;
-    else if(root->val>val)
+    if(root==NULL || root->val==val)
+    {
+        return root;
+    }
+    else if(val<root->val)
+    {
     return searchBST(root->left,val);
-    else if(root->val<val)
-    return searchBST(root->right,val);
+    }
     else
-    return root;
+   return searchBST(root->right,val);
 }
