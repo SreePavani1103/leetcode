@@ -46,6 +46,7 @@
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SreePavani1103/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/SreePavani1103/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
