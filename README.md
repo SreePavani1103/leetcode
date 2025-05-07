@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SreePavani1103/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SreePavani1103/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
