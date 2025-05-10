@@ -64,6 +64,7 @@
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
