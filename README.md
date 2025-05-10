@@ -26,6 +26,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/SreePavani1103/leetcode/tree/master/3371-harshad-number) |
+| [3859-maximum-product-of-two-digits](https://github.com/SreePavani1103/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/SreePavani1103/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
