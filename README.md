@@ -56,6 +56,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SreePavani1103/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/SreePavani1103/leetcode/tree/master/0932-monotonic-array) |
@@ -89,6 +90,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/SreePavani1103/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 ## Enumeration
@@ -165,6 +167,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
