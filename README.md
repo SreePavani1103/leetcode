@@ -59,6 +59,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/SreePavani1103/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -102,6 +103,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
