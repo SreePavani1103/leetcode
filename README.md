@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
@@ -197,6 +198,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
