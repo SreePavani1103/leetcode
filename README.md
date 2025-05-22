@@ -19,6 +19,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/SreePavani1103/leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SreePavani1103/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/SreePavani1103/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
@@ -78,6 +79,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/SreePavani1103/leetcode/tree/master/2181-smallest-index-with-equal-value) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -93,6 +95,7 @@
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/SreePavani1103/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -261,4 +264,8 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
