@@ -55,6 +55,7 @@
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SreePavani1103/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
@@ -227,6 +228,7 @@
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
