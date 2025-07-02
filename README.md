@@ -77,6 +77,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/SreePavani1103/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
@@ -135,6 +136,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
