@@ -86,6 +86,7 @@
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/SreePavani1103/leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SreePavani1103/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SreePavani1103/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -129,6 +130,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SreePavani1103/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SreePavani1103/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/SreePavani1103/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -141,6 +143,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
