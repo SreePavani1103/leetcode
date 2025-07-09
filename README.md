@@ -96,6 +96,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SreePavani1103/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -145,6 +146,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
