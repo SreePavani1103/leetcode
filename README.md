@@ -52,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SreePavani1103/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
@@ -239,6 +240,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SreePavani1103/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
