@@ -21,6 +21,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/SreePavani1103/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/2383-add-two-integers) |
+| [2481-strictly-palindromic-number](https://github.com/SreePavani1103/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/SreePavani1103/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/SreePavani1103/leetcode/tree/master/2556-convert-the-temperature) |
@@ -128,6 +129,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SreePavani1103/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SreePavani1103/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2481-strictly-palindromic-number](https://github.com/SreePavani1103/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -291,4 +293,8 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SreePavani1103/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/SreePavani1103/leetcode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
