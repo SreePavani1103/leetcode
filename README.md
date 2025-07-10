@@ -97,6 +97,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SreePavani1103/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
@@ -113,6 +114,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/SreePavani1103/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/SreePavani1103/leetcode/tree/master/2386-min-max-game) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SreePavani1103/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
@@ -261,6 +264,7 @@
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
