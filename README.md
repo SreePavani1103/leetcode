@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/SreePavani1103/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SreePavani1103/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -246,6 +247,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
