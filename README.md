@@ -101,6 +101,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SreePavani1103/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -256,6 +257,7 @@
 | [0191-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
 |  |
 | ------- |
