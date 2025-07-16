@@ -9,22 +9,26 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ struct Info{
+    int d;
+    int h;
+ };
+ Info find(TreeNode *root)
+ {
+    if(root==NULL)
+    return {0,0};
+    Info left=find(root->left);
+    Info right=find(root->right);
+    Info curr;
+    curr.h=max(left.h,right.h)+1;
+    curr.d=max(left.h+right.h,max(left.d,right.d));
+    return curr;
+ }
+
 class Solution {
 public:
- int maximum=0;
-int height(TreeNode *root)
-        {
-        if(root==NULL)
-        return 0;
-        int l=height(root->left);
-        int h=height(root->right);
-        maximum=max(maximum,l+h);
-        return 1+max(l,h);
-        }
     int diameterOfBinaryTree(TreeNode* root) {
-     maximum=0;
-      height(root);
-      return maximum;
-
-    }
+        Info res=find(root);
+        return res.d;
+            }
 };
