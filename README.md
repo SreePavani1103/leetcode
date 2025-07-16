@@ -33,6 +33,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/SreePavani1103/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SreePavani1103/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/SreePavani1103/leetcode/tree/master/3371-harshad-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SreePavani1103/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/SreePavani1103/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/SreePavani1103/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -103,6 +104,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SreePavani1103/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
