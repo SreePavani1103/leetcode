@@ -72,6 +72,7 @@
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SreePavani1103/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SreePavani1103/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
