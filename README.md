@@ -78,6 +78,7 @@
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SreePavani1103/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SreePavani1103/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SreePavani1103/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
