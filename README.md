@@ -171,6 +171,7 @@
 | [0344-reverse-string](https://github.com/SreePavani1103/leetcode/tree/master/0344-reverse-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/SreePavani1103/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SreePavani1103/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
