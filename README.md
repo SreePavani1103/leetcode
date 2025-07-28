@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SreePavani1103/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -303,6 +304,7 @@
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
