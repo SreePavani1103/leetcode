@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
 | [0728-self-dividing-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
@@ -65,6 +66,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -144,12 +146,14 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/SreePavani1103/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/SreePavani1103/leetcode/tree/master/2722-prime-in-diagonal) |
