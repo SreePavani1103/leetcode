@@ -1,21 +1,22 @@
 class Solution {
     public int countPrimes(int n) {
-        if(n<2)
+        if(n<3)
         return 0;
         boolean[] isprime = new boolean[n];
-        Arrays.fill(isprime,true);
-        isprime[0]=false;
-        isprime[1]=false;
-        for(int i=2;i*i<n;i++)
+        for(int i=3;i<n;i+=2)
+        {
+            isprime[i]=true;
+        }
+        for(int i=3;i*i<n;i+=2)
         {
             if(isprime[i])
             {
-                for(int j=i*i;j<n;j+=i)
+                for(int j=i*i;j<n;j+=2*i)
                 isprime[j]=false;
             }
         }
-        int c=0;
-        for(int i=0;i<n;i++)
+        int c=1;
+        for(int i=3;i<n;i++)
         {
             if(isprime[i])
             c++;
