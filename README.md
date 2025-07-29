@@ -188,6 +188,7 @@
 | [0344-reverse-string](https://github.com/SreePavani1103/leetcode/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/SreePavani1103/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SreePavani1103/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0742-to-lower-case](https://github.com/SreePavani1103/leetcode/tree/master/0742-to-lower-case) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1205-defanging-an-ip-address](https://github.com/SreePavani1103/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/SreePavani1103/leetcode/tree/master/1651-shuffle-string) |
