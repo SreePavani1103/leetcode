@@ -21,6 +21,7 @@
 | [1448-maximum-69-number](https://github.com/SreePavani1103/leetcode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/SreePavani1103/leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SreePavani1103/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SreePavani1103/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -196,6 +197,7 @@
 | [1797-goal-parser-interpretation](https://github.com/SreePavani1103/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/SreePavani1103/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/SreePavani1103/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/SreePavani1103/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SreePavani1103/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
