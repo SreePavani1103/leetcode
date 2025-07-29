@@ -110,6 +110,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/SreePavani1103/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SreePavani1103/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SreePavani1103/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/SreePavani1103/leetcode/tree/master/2386-min-max-game) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
@@ -200,6 +201,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SreePavani1103/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SreePavani1103/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SreePavani1103/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/SreePavani1103/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -385,4 +387,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/SreePavani1103/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
