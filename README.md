@@ -67,6 +67,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +130,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SreePavani1103/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -289,6 +291,7 @@
 | [0110-balanced-binary-tree](https://github.com/SreePavani1103/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SreePavani1103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/SreePavani1103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SreePavani1103/leetcode/tree/master/0975-range-sum-of-bst) |
@@ -368,6 +371,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SreePavani1103/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [1005-univalued-binary-tree](https://github.com/SreePavani1103/leetcode/tree/master/1005-univalued-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -392,4 +396,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/SreePavani1103/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
