@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SreePavani1103/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
@@ -143,6 +144,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SreePavani1103/leetcode/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/SreePavani1103/leetcode/tree/master/1806-count-of-matches-in-tournament) |
@@ -192,6 +194,7 @@
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SreePavani1103/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SreePavani1103/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/SreePavani1103/leetcode/tree/master/0344-reverse-string) |
@@ -322,6 +325,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SreePavani1103/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
