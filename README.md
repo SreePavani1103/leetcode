@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SreePavani1103/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SreePavani1103/leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SreePavani1103/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
@@ -66,6 +67,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
