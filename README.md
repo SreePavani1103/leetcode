@@ -78,6 +78,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SreePavani1103/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/SreePavani1103/leetcode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/SreePavani1103/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
@@ -410,4 +411,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SreePavani1103/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
