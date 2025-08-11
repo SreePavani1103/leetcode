@@ -13,10 +13,10 @@ public:
          if(fr.empty())
      return -1;
     int maxf=0;
-    int ans=INT_MAX;
+    int ans=-1;
     for(auto &[num,fre]:fr)
     {
-        if(fre>maxf || (num<ans && maxf==fre))
+        if(fre>maxf || (maxf==fre && num<ans))
         {
             maxf=fre;
             ans=num;
