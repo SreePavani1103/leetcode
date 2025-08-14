@@ -93,6 +93,7 @@
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SreePavani1103/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SreePavani1103/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -251,6 +252,7 @@
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -270,6 +272,7 @@
 | [0692-top-k-frequent-words](https://github.com/SreePavani1103/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -355,6 +358,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
