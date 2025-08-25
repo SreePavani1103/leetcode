@@ -42,6 +42,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/SreePavani1103/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/SreePavani1103/leetcode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SreePavani1103/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SreePavani1103/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/SreePavani1103/leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/SreePavani1103/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -138,6 +139,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/SreePavani1103/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/SreePavani1103/leetcode/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SreePavani1103/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SreePavani1103/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SreePavani1103/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
