@@ -228,6 +228,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/SreePavani1103/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/SreePavani1103/leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [1970-sorting-the-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SreePavani1103/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SreePavani1103/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SreePavani1103/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -263,6 +264,7 @@
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1970-sorting-the-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
