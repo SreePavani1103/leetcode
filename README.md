@@ -86,6 +86,7 @@
 | [0692-top-k-frequent-words](https://github.com/SreePavani1103/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/SreePavani1103/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -218,6 +219,7 @@
 | [0742-to-lower-case](https://github.com/SreePavani1103/leetcode/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
 | [1205-defanging-an-ip-address](https://github.com/SreePavani1103/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SreePavani1103/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/SreePavani1103/leetcode/tree/master/1651-shuffle-string) |
@@ -425,6 +427,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/SreePavani1103/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/SreePavani1103/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/SreePavani1103/leetcode/tree/master/2571-find-the-pivot-integer) |
