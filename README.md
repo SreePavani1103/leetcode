@@ -109,6 +109,7 @@
 | [1651-shuffle-string](https://github.com/SreePavani1103/leetcode/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/SreePavani1103/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/SreePavani1103/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -224,6 +225,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SreePavani1103/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/SreePavani1103/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SreePavani1103/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/SreePavani1103/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/SreePavani1103/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/SreePavani1103/leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -288,6 +290,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -371,6 +374,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Hash Table
@@ -392,6 +396,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/SreePavani1103/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
