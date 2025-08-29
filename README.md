@@ -120,6 +120,7 @@
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/SreePavani1103/leetcode/tree/master/2181-smallest-index-with-equal-value) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SreePavani1103/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SreePavani1103/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SreePavani1103/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -235,6 +236,7 @@
 | [1970-sorting-the-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SreePavani1103/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/SreePavani1103/leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SreePavani1103/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/SreePavani1103/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/SreePavani1103/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SreePavani1103/leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -293,6 +295,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SreePavani1103/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/SreePavani1103/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SreePavani1103/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -399,6 +402,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/SreePavani1103/leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/SreePavani1103/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/SreePavani1103/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
