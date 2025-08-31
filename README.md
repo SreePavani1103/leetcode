@@ -91,6 +91,7 @@
 | [0932-monotonic-array](https://github.com/SreePavani1103/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0965-unique-email-addresses](https://github.com/SreePavani1103/leetcode/tree/master/0965-unique-email-addresses) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/SreePavani1103/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -222,6 +223,7 @@
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
+| [0965-unique-email-addresses](https://github.com/SreePavani1103/leetcode/tree/master/0965-unique-email-addresses) |
 | [1205-defanging-an-ip-address](https://github.com/SreePavani1103/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SreePavani1103/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1651-shuffle-string](https://github.com/SreePavani1103/leetcode/tree/master/1651-shuffle-string) |
@@ -395,6 +397,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SreePavani1103/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/SreePavani1103/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
+| [0965-unique-email-addresses](https://github.com/SreePavani1103/leetcode/tree/master/0965-unique-email-addresses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SreePavani1103/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SreePavani1103/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SreePavani1103/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
