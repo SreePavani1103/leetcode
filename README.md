@@ -71,6 +71,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreePavani1103/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/SreePavani1103/leetcode/tree/master/0204-count-primes) |
@@ -191,6 +192,7 @@
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreePavani1103/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/SreePavani1103/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/SreePavani1103/leetcode/tree/master/0541-reverse-string-ii) |
@@ -425,6 +427,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreePavani1103/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/SreePavani1103/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
