@@ -132,6 +132,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/SreePavani1103/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2386-min-max-game](https://github.com/SreePavani1103/leetcode/tree/master/2386-min-max-game) |
+| [2447-merge-similar-items](https://github.com/SreePavani1103/leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/SreePavani1103/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -280,6 +281,7 @@
 | [1970-sorting-the-sentence](https://github.com/SreePavani1103/leetcode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SreePavani1103/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2447-merge-similar-items](https://github.com/SreePavani1103/leetcode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/SreePavani1103/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -416,6 +418,7 @@
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/SreePavani1103/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2447-merge-similar-items](https://github.com/SreePavani1103/leetcode/tree/master/2447-merge-similar-items) |
 | [2486-most-frequent-even-element](https://github.com/SreePavani1103/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/SreePavani1103/leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SreePavani1103/leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -514,4 +517,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2447-merge-similar-items](https://github.com/SreePavani1103/leetcode/tree/master/2447-merge-similar-items) |
 <!---LeetCode Topics End-->
