@@ -5,11 +5,11 @@ public:
         int n=changed.size();
         if(n&1)
         return {};
-    map<int,int>m;
+    unordered_map<int,int>m;
     sort(changed.begin(),changed.end());
-    for(int i=0;i<n;i++)
+    for(int i:changed)
     {
-        m[changed[i]]++;
+        m[i]++;
     }
     for(int i=0;i<n;i++)
     {
