@@ -3,7 +3,7 @@ public:
     vector<int> findOriginalArray(vector<int>& changed) {
         vector<int>v;
         int n=changed.size();
-        if(n%2!=0)
+        if(n&1)
         return {};
     map<int,int>m;
     sort(changed.begin(),changed.end());
