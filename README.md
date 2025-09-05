@@ -85,6 +85,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/SreePavani1103/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/SreePavani1103/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/SreePavani1103/leetcode/tree/master/0724-find-pivot-index) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
@@ -458,6 +459,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/SreePavani1103/leetcode/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
 | [1603-running-sum-of-1d-array](https://github.com/SreePavani1103/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/SreePavani1103/leetcode/tree/master/1833-find-the-highest-altitude) |
