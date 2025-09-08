@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -69,6 +70,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreePavani1103/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -156,6 +158,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/SreePavani1103/leetcode/tree/master/0200-number-of-islands) |
 | [0898-transpose-matrix](https://github.com/SreePavani1103/leetcode/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/SreePavani1103/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
