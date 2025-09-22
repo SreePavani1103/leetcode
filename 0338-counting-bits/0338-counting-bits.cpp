@@ -12,15 +12,10 @@ int fun(int x)
    return cnt;
 }
     vector<int> countBits(int n) {
-        vector<int>a;
-        for(int i=0;i<=n;i++)
-        {
-            a.push_back(i);
-        }
      vector<int>b;
-     for(int i=0;i<a.size();i++)
+     for(int i=0;i<= n;i++)
      {
-        b.push_back(fun(a[i]));
+        b.push_back(fun(i));
      }
      return b;
     }
