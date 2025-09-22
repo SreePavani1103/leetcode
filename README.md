@@ -52,6 +52,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/SreePavani1103/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -405,6 +406,7 @@
 | [0191-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/SreePavani1103/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/SreePavani1103/leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/SreePavani1103/leetcode/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
