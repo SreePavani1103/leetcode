@@ -71,6 +71,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/SreePavani1103/leetcode/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
@@ -424,6 +425,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SreePavani1103/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
+| [0041-first-missing-positive](https://github.com/SreePavani1103/leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SreePavani1103/leetcode/tree/master/0229-majority-element-ii) |
