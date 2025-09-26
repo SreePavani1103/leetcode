@@ -72,6 +72,7 @@
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SreePavani1103/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@
 | [0008-string-to-integer-atoi](https://github.com/SreePavani1103/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SreePavani1103/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SreePavani1103/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
@@ -284,6 +286,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SreePavani1103/leetcode/tree/master/0229-majority-element-ii) |
@@ -428,6 +431,7 @@
 | [0001-two-sum](https://github.com/SreePavani1103/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SreePavani1103/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/SreePavani1103/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SreePavani1103/leetcode/tree/master/0229-majority-element-ii) |
