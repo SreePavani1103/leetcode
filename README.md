@@ -104,6 +104,7 @@
 | [0941-sort-array-by-parity](https://github.com/SreePavani1103/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/SreePavani1103/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/SreePavani1103/leetcode/tree/master/0965-unique-email-addresses) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/SreePavani1103/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1137-height-checker](https://github.com/SreePavani1103/leetcode/tree/master/1137-height-checker) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/SreePavani1103/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -421,6 +422,7 @@
 | [0287-find-the-duplicate-number](https://github.com/SreePavani1103/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/SreePavani1103/leetcode/tree/master/0338-counting-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SreePavani1103/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/SreePavani1103/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SreePavani1103/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SreePavani1103/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SreePavani1103/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
