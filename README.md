@@ -42,6 +42,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/SreePavani1103/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/SreePavani1103/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/SreePavani1103/leetcode/tree/master/3371-harshad-number) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SreePavani1103/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/SreePavani1103/leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SreePavani1103/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -163,6 +164,7 @@
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/SreePavani1103/leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/SreePavani1103/leetcode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3227-find-missing-and-repeated-values](https://github.com/SreePavani1103/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SreePavani1103/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/SreePavani1103/leetcode/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/SreePavani1103/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -191,6 +193,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/SreePavani1103/leetcode/tree/master/2386-min-max-game) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/SreePavani1103/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SreePavani1103/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3811-reverse-degree-of-a-string](https://github.com/SreePavani1103/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
@@ -504,6 +507,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/SreePavani1103/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/SreePavani1103/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/SreePavani1103/leetcode/tree/master/2571-find-the-pivot-integer) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SreePavani1103/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3644-minimum-positive-sum-subarray](https://github.com/SreePavani1103/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
@@ -524,6 +528,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SreePavani1103/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3422-find-the-n-th-value-after-k-seconds](https://github.com/SreePavani1103/leetcode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Monotonic Stack
 |  |
 | ------- |
