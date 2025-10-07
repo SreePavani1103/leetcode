@@ -77,6 +77,7 @@
 | [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/SreePavani1103/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SreePavani1103/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
@@ -215,6 +216,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SreePavani1103/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/SreePavani1103/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SreePavani1103/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SreePavani1103/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SreePavani1103/leetcode/tree/master/0165-compare-version-numbers) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/SreePavani1103/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SreePavani1103/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SreePavani1103/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SreePavani1103/leetcode/tree/master/0229-majority-element-ii) |
