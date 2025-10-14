@@ -204,6 +204,7 @@
 | [2122-count-special-quadruplets](https://github.com/SreePavani1103/leetcode/tree/master/2122-count-special-quadruplets) |
 | [2507-number-of-common-factors](https://github.com/SreePavani1103/leetcode/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/SreePavani1103/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [4055-longest-balanced-substring-i](https://github.com/SreePavani1103/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [3636-check-balanced-string](https://github.com/SreePavani1103/leetcode/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/SreePavani1103/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SreePavani1103/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/SreePavani1103/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/SreePavani1103/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SreePavani1103/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/SreePavani1103/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
@@ -478,6 +481,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/SreePavani1103/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/SreePavani1103/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SreePavani1103/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4055-longest-balanced-substring-i](https://github.com/SreePavani1103/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
