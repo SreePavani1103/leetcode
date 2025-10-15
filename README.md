@@ -76,6 +76,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SreePavani1103/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SreePavani1103/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SreePavani1103/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SreePavani1103/leetcode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SreePavani1103/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/SreePavani1103/leetcode/tree/master/0075-sort-colors) |
@@ -585,6 +586,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/SreePavani1103/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SreePavani1103/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
