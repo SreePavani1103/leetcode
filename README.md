@@ -595,4 +595,8 @@
 | [0052-n-queens-ii](https://github.com/SreePavani1103/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SreePavani1103/leetcode/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/SreePavani1103/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
