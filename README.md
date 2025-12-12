@@ -598,5 +598,6 @@
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/SreePavani1103/leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/SreePavani1103/leetcode/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
