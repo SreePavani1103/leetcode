@@ -603,4 +603,5 @@
 | [0610-triangle-judgement](https://github.com/SreePavani1103/leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/SreePavani1103/leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SreePavani1103/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1729-find-followers-count](https://github.com/SreePavani1103/leetcode/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
