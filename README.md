@@ -602,4 +602,5 @@
 | [0595-big-countries](https://github.com/SreePavani1103/leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/SreePavani1103/leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/SreePavani1103/leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SreePavani1103/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
