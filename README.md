@@ -55,6 +55,7 @@
 | [0064-minimum-path-sum](https://github.com/SreePavani1103/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SreePavani1103/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SreePavani1103/leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SreePavani1103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/SreePavani1103/leetcode/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/SreePavani1103/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -82,6 +83,7 @@
 | [0075-sort-colors](https://github.com/SreePavani1103/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SreePavani1103/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SreePavani1103/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SreePavani1103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SreePavani1103/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SreePavani1103/leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SreePavani1103/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
