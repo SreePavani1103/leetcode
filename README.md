@@ -104,6 +104,7 @@
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/SreePavani1103/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/SreePavani1103/leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/SreePavani1103/leetcode/tree/master/0739-daily-temperatures) |
 | [0837-most-common-word](https://github.com/SreePavani1103/leetcode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/SreePavani1103/leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0878-shifting-letters](https://github.com/SreePavani1103/leetcode/tree/master/0878-shifting-letters) |
@@ -371,6 +372,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SreePavani1103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/SreePavani1103/leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SreePavani1103/leetcode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SreePavani1103/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Tree
 |  |
@@ -548,6 +550,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/SreePavani1103/leetcode/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SreePavani1103/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
 |  |
