@@ -617,4 +617,5 @@
 | [1068-product-sales-analysis-i](https://github.com/SreePavani1103/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/SreePavani1103/leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/SreePavani1103/leetcode/tree/master/1729-find-followers-count) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SreePavani1103/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
